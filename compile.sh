@@ -1,0 +1,1 @@
+gcc -ansi msString.c coursework.c -o coursework
